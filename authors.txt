@@ -1,0 +1,3 @@
+::Projet comprenant plusieurs choses depuis un invite de simulation (suivi de programmes à faire pour un résultat complexe final) qui contiendra à la fin un ensemble de fichiers indépendants compilés via la présence de leur propre dernier executable à succés.
+Remarque:
+ ->Fichier aléatoire pour commencer avec git mais pas beaucoup quand même.
