@@ -1,0 +1,4 @@
+2 jeux:
+->bataille de la dame de pique(~()).
+->morpion sur une grille de taille 9.(BIEN FAIT..(R:../? *)).
+voilà.\\
