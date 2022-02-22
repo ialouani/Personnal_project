@@ -1,0 +1,13 @@
+LDFLAGS=
+VAR=$(echo $(pwd))
+CC= cc
+%.o: %.c
+	$(CC) -std=c99 $< -c
+
+lancement_MORPION0: ./jeu_morpion.c
+	gcc -std=c99 jeu_morpion.c -o $@ ${LDFLAGS}
+lancement__DAME_DE_PIQUE0: ./bataille__dame_de_pique.c
+	gcc -std=c99 $^ -o $@ ${LDGAFS}
+lancement_jeu_morpion=lancement_MOPRION0
+clean:
+	rm -f lancement_MORPION0 lancement__DAME_DE_PIQUE0
